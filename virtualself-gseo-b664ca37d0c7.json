@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "virtualself-gseo",
+  "private_key_id": "b664ca37d0c7351537a4ed994d21ff926a2c5434",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDiqZVADcI+4zHf\n1ruJjWLkPCtO52LeiioGuwChw6pm0AvidjIqb29bTrP5GwAyAhaQTp4hwO2CbWVj\n/vV1P0g9pZveTJjv30ytjoCJjFUnw+7nRZUUsfyRInWKHL77s+KQPKA4kZsliB7v\ntxuiAmQRMvcI9KRiLwFWyOblfh1MIhWCPG7QcSmWge0AgVG7/PdxegqBpglapukZ\nRmkfo9p6koWIq8rnUoqViuLBYEp15Ua/XDDb1O3TdAN3h4YhWNhq67OCLYPHr9gA\nUCI3Zie7ZNYi0/V0daEPD9L3bjmg0b0KzYYYT8wmGvP1+pq7av+9GMhWt5AXaRde\nqzxKMI1rAgMBAAECggEAbEF8lEQ+AxU16+e+WFsb4VBPivb+hLVOjzpfeeNfDo3N\nL1MucJAaimyTjqVzuW6/4hp6cjqX9ZRUOac7Cs23riHbyReib+ah077c61UIEt8E\nypa0Nlcv/w2LP/SszsDCtAsQpxP8GrfhtrIo03761jAWRsO5g19Z714y0WcjjQlP\n4P7zTkIiI1S0NGRCTK0p9yb9EC6NLTEW1+kH+CzqMt8cb5ly6E+AuakDjwssHp9+\nXQBiB6ZMWVFkOiOcyuU+9dkaO8ZgTDD5vut5wJk6CxkJ8gEec2IFpPwI46W5p9gT\nMso2u1jeFNVXz5CI727qn9mLtmUY5YxUYm/9ux+r8QKBgQD/5y4U5Xo4w7fU7DG8\nfErLeBNvbt8VOImMam4orHKYYI6zpOW4O8dPSeM623Mte7uPxj9DV43+STG+yWiP\nKIB2YNndR6IYT0+wmKhH/amHm0buJaf2VoPI4js17fjNIIE+FgPMGvuD7aSA/+GE\nB/ZxqvsjNejZK/JAqS4W6Qj6IwKBgQDiv5EkTAAwAgOmqkmGcBO846Et887JLlsg\nfwy6GxGBcFijXzcOjuYczd6OrtIW71I7XXV+gfGIwxgtLbWRJt/X09g9+dSDBzzy\nAeDzRrElRXGKbtivYRI7Tvqg+035yGUljFwOARg9NuvwNb/nkVO1gphtMeC85roX\noguNJCFgGQKBgHkoxnukTqLTn5UTI1U/b9Y4CtOmpb6RXyZ5OaDOTQ9yH/5UI2OA\nAhS7Qfea8URmod4nmcpTiOoNU50mFPg6z9+8aUpIYSmrW2qcTIiRRBPtY77bW1PZ\nkFmrKyeUfUj5i9eOasvXNqA3Ar0E6YwujPMyZec83fr8wJz2vNiiCtsLAoGAU671\npxqxewZTSKBSMF6OukicRLRVXeRQ12ZsUQcKZ+YJoInUbPgKLxk/iRM2ECbVB3nP\nkhftB1dRReM3vlFFjYbuqLjaWF1EfeB5n+84E5RUeg28xMUjkGXuk5kLxyLRSZFK\nrBR1WKo7W1TK9XCqHzQKg0pEMhNJHM2+S6HI+4kCgYBeqvK+RP/1FQxDI2357OD5\nSaa+oCigr1Ah4D/P7VpY26JJXQQMcbQO+EVutQZq6mEuXzjoeHD2p03jOHyRKVV1\nza5Td54XvYs0ZoHhbh0Fhc4UHRqiXFL35gLaRGGq1nJsuVCqWYd8+Xp2JYEzFVrs\nvVyJQqfvYIOvTyy9N3iBug==\n-----END PRIVATE KEY-----\n",
+  "client_email": "virtualself@virtualself-gseo.iam.gserviceaccount.com",
+  "client_id": "107206479155729874752",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/virtualself%40virtualself-gseo.iam.gserviceaccount.com"
+}
